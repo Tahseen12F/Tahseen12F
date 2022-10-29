@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tahseen
 - 👀 I’m interested in Software Testing and Quality Assurance
-- 🌱 I’m currently a Software Tester 
-- 💞️ I’m looking to collaborate on Testing domain
+- 🌱 I’m currently a Software Tester and looking to collaborate on Testing domain.
 
 
 <!---
