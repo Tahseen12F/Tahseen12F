@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tahseen
 - 👀 I’m interested in Software Testing and Quality Assurance
-- 🌱 I’m currently a QA Engineer having 3.7years of experience on Insurance domain.
+- 🌱 I’m currently a QA Engineer having 4years of experience on product testing in an Insurance domain.
 
 
 <!---
