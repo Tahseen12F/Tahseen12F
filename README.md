@@ -1,6 +1,6 @@
 # Hi, I’m Tahseen
 - 👀 I’m interested in Software Testing and Quality Assurance
-- 🌱 I’m currently a QA Engineer having 4years of experience on product testing in an Insurance domain.
+- 🌱 I’m currently a QA Engineer having 4+ years of experience on product testing in an Insurance domain.
 
 ### Progress
 [![roadmap.sh](https://roadmap.sh/card/wide/664f5c19d6b907c7f77c68e3?variant=dark)](https://roadmap.sh)
